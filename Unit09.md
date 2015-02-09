@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304L: Human Physiology Lab"
+course_description: "An introduction to physiology that uses various activities and exercises to explore the subject. Lab topics include: enzyme activity, electroencephalography (EEG), electromyogram (EMG), electrocardiography (ECG), reflexes, blood pressure and heart rate, blood typing, spirometry, urinalysis, digestion of carbohydrates and proteins, and sea urchin embryology."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Respiratory Physiology** <span id="9"></span> 
 *This lab reviews the definitions of “tidal volume,” “inspiratory” and
 “expiratory” reserve volume, and “vital volume.” This unit also explains

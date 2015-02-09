@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304L: Human Physiology Lab"
+course_description: "An introduction to physiology that uses various activities and exercises to explore the subject. Lab topics include: enzyme activity, electroencephalography (EEG), electromyogram (EMG), electrocardiography (ECG), reflexes, blood pressure and heart rate, blood typing, spirometry, urinalysis, digestion of carbohydrates and proteins, and sea urchin embryology."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Scientific Investigation** <span
 id="1"></span> 
 *This unit focuses on applied methods for scientific inquiry.  You will

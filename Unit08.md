@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304L: Human Physiology Lab"
+course_description: "An introduction to physiology that uses various activities and exercises to explore the subject. Lab topics include: enzyme activity, electroencephalography (EEG), electromyogram (EMG), electrocardiography (ECG), reflexes, blood pressure and heart rate, blood typing, spirometry, urinalysis, digestion of carbohydrates and proteins, and sea urchin embryology."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Blood Type Analysis** <span id="8"></span> 
 *This section reviews the four blood types—A, B, O, and AB—and blood
 type analysis, the procedure that analyzes blood to determine blood

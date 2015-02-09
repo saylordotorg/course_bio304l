@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304L: Human Physiology Lab"
+course_description: "An introduction to physiology that uses various activities and exercises to explore the subject. Lab topics include: enzyme activity, electroencephalography (EEG), electromyogram (EMG), electrocardiography (ECG), reflexes, blood pressure and heart rate, blood typing, spirometry, urinalysis, digestion of carbohydrates and proteins, and sea urchin embryology."
+next: ../../../
+previous: ../Unit11
+---
 **Unit 12: Reproduction** <span id="12"></span> 
 *Using sea urchins, the lab in this unit demonstrates the release of egg
 and sperm cells following an injection of KCL.  You will also learn
